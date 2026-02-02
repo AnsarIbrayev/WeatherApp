@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972723506914",
+    "project_id": "nmd-assignment8-weatherapp",
+    "storage_bucket": "nmd-assignment8-weatherapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972723506914:android:bc6b3ac1371206cbf898bb",
+        "android_client_info": {
+          "package_name": "com.example.weatherapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz5OWf0fBLVMgRtGvQXBP4qsAIs374amw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
